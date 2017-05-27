@@ -1,0 +1,11 @@
+
+@import 'antd/dist/antd.css';
+
+html, body, :global(#root) {
+  height: 100%;
+  font-size: 1.1rem;
+}
+
+.ant-layout-header{
+  padding:0 3%
+}
